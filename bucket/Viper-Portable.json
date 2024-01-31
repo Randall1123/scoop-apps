@@ -1,13 +1,13 @@
 {
-    "version": "0.3",
+    "version": "0.2",
     "description": "Viper. An enhanced Windows Service manager application.",
     "homepage": "https://github.com/himselfv/viper",
     "license": "Unknown",
     "changelog": "https://github.com/himselfv/viper/releases",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/himselfv/viper/releases/download/0.3/viper-0.3-2019.05.05.zip",
-            "hash": "ceb87c24e63bc7c6f1bde89d573b03963e9656d7b94ec9b70f014917ca6edb35"
+            "url": "https://github.com/himselfv/viper/releases/download/0.2/viper-0.2-2017.02.03.zip",
+            "hash": "d6284b2f72727100bc1361b73aca330db3a418704ba7276e3087eefac7b2f011"
         }
     },
     "bin": "Viper.exe",
