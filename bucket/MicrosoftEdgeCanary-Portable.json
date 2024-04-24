@@ -1,16 +1,16 @@
 {
-    "version": "126.0.2540.0",
+    "version": "126.0.2543.0",
     "description": "Microsoft Edge Canary. The chromium based Microsoft Edge browser (Canary Channel)",
     "homepage": "https://www.microsoftedgeinsider.com/en-us/welcome?channel=canary",
     "license": "Freeware",
     "architecture": {
         "64bit": {
             "url": [
-                "https://dorado-api.deno.dev/edge?arch=64&channel=canary&version=126.0.2540.0&dl#/dl.7z",
+                "https://dorado-api.deno.dev/edge?arch=64&channel=canary&version=126.0.2543.0&dl#/dl.7z",
                 "https://raw.githubusercontent.com/ACooper81/SharedFiles/master/icons/msedgecanary.ico"
             ],
             "hash": [
-                "da3831ef63347b6236f87ae9b2c894a4d8e7d2dd2b8c48ae7e5c8c80a1ac3150",
+                "f10234456a66e9a97ce7ca7fa730a0df8e69f74d6d55ec974ae2696bd5e7045f",
                 "b86c43a44f74e03605c140eff05f5b00981033043fab70c0b29416755b450cfb"
             ]
         }
