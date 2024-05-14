@@ -1,18 +1,18 @@
 {
     "##": "Download URL https://dotnet.microsoft.com/en-us/download/dotnet/7.0",
-    "version": "8.0.4",
+    "version": "8.0.5",
     "description": "Microsoft .NET Core Runtime. The .NET Runtime contains just the components needed to run a console app.",
     "homepage": "https://dotnet.microsoft.com/",
     "license": "Freeware",
     "changelog": "https://github.com/dotnet/core/tree/main/release-notes",
     "architecture": {
         "64bit": {
-            "url": "https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-8.0.4-windows-x64-installer#/setup.exe",
-            "hash": "c1d969fb3d172650c1941aa526a4a7ae652528e979e801a7e937fe10210ddb6f"
+            "url": "https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-8.0.5-windows-x64-installer#/setup.exe",
+            "hash": "49cd5311710e1be00c2716600a059b87eed9869a5da6d44bdf02073ab2b334a9"
         },
         "32bit": {
-            "url": "https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-8.0.4-windows-x86-installer#/setup.exe",
-            "hash": "134e59a83b9b87c7e9af510e67ae02ef8fe7871925e861d555fbbb206cd7c1ac"
+            "url": "https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-8.0.5-windows-x86-installer#/setup.exe",
+            "hash": "e57b0f9b62285cee31d4d10e0644734c827ff57bdcf1d2b568dd8318a8e679d1"
         }
     },
     "pre_download": "Assert-Administrator",
