@@ -1,11 +1,11 @@
 {
-    "version": "5.04",
+    "version": "5.53",
     "description": "Stardock Fences. Automatically organize your desktop shortcuts icons and running tasks",
     "homepage": "https://www.stardock.com/products/fences/",
     "license": "Proprietary",
     "changelog": "https://www.stardock.com/products/fences/history",
     "url": "https://cdn.stardock.us/downloads/public/software/fences/Fences4-sd-setup.exe#/setup.exe",
-    "hash": "a3f36ae743fd5c681cbc344604335821c76cdaa3131eb70f29f4bceb1d687833",
+    "hash": "0edcf8789fc6b0acf7124f2ba00dfbd1eb7dc0b14515ba7c4184fd9f7bbae205",
     "pre_download": "Assert-Administrator",
     "installer": {
         "script": [
