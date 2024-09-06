@@ -1,13 +1,13 @@
 {
-    "version": "4.1.1",
+    "version": "4.1.2",
     "description": "Browser Tamer. Opens required browser based on configuration",
     "homepage": "https://www.aloneguid.uk/projects/bt/",
     "license": "Freeware",
     "changelog": "https://github.com/aloneguid/bt/releases",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/aloneguid/bt/releases/download/4.1.1/bt-4.1.1.zip",
-            "hash": "aa0b572d07dfde8a3ebfba7f591e15865c2c277bb3e592dbf469e120d25350b2"
+            "url": "https://github.com/aloneguid/bt/releases/download/4.1.2/bt-4.1.2.zip",
+            "hash": "3c57b955971518a88b140d1279073c932e9e095631558917d572dc7c1f2e7607"
         }
     },
     "bin": "bt.exe",
