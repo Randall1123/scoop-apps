@@ -1,11 +1,11 @@
 {
-    "version": "9.55",
+    "version": "9.56",
     "description": "Soft Organizer. Free Unnecessary Programs Removal Tool",
     "homepage": "https://www.chemtable.com/soft-organizer.htm",
     "license": "Proprietary",
     "changelog": "https://www.chemtable.com/version-history.htm?prod_id=Soft%20Organizer",
     "url": "https://www.chemtable.com/files/soft-organizer-setup.exe#/setup.exe",
-    "hash": "f7bf33f5d834770b7974b6886bcd6b2a357f7536d1350ed8fa76c6be1f4cb993",
+    "hash": "b0883ef710965c911d430f33307f00c42dc9aa21e249bbee370937322bfd804b",
     "pre_download": "Assert-Administrator",
     "pre_install": [
         "$processname = \"SoftOrganizer\"",
