@@ -1,11 +1,11 @@
 {
-    "version": "9.6",
+    "version": "9.8",
     "description": "WinToUSB. Best Free Windows To Go Creator Wizard Helps Create Portable Windows 11/10/8/7!",
     "homepage": "https://www.easyuefi.com/wintousb/index.html?AVGAFFILIATE=3305&__c=1",
     "license": "Proprietary",
     "changelog": "https://www.easyuefi.com/wintousb/change-logs.html",
     "url": "https://www.easyuefi.com/wintousb/downloads/WinToUSB_Free.exe#/setup.7z",
-    "hash": "f6d401c5e24d7923607c9b2aeaf46db391b0527a98087519330caa81b8f3e939",
+    "hash": "e8d4f97189be1a868d5d73e373d2e2abd72d0e4cd06a01ba5b4ff1fd1d9cec44",
     "shortcuts": [
         [
             "bin\\WinToUSB.exe",
