@@ -1,11 +1,11 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "BurntToast. PowerShell Module for displaying Windows 10 and Windows Server 2019 Toast Notifications",
     "homepage": "https://github.com/Windos/BurntToast",
     "license": "MIT",
     "changelog": "https://github.com/Windos/BurntToast/releases",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/burnttoast.1.0.0.nupkg#/dl.7z",
-    "hash": "6d81451c2597d2c8db209ca5c839781f943e8a378494f5762302f237add1aedc",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/burnttoast.1.0.1.nupkg#/dl.7z",
+    "hash": "14a3703ad15f23e30ecba6caa9eead1f6146fdbf07d3547ec949d19bd3fb4849",
     "psmodule": {
         "name": "BurntToast"
     },
