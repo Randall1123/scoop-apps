@@ -1,6 +1,6 @@
 {
     "##": "Download URL https://www.bluestacks.com/download.html",
-    "version": "5.22.101.4013",
+    "version": "5.22.101.1008",
     "description": "BlueStacks 5. Android emulator.",
     "homepage": "https://www.bluestacks.com",
     "license": {
@@ -9,7 +9,7 @@
     },
     "changelog": "https://support.bluestacks.com/hc/en-us/sections/360012290292-Release-Notes",
     "url": "https://cloud.bluestacks.com/api/getdownloadnow?platform=win&win_version=10#/setup.exe",
-    "hash": "ccb04de2d96b03ffd8946735bafdf0c89c80f1d3e67ce1456be738c08aa29a5d",
+    "hash": "6ff80b911418e8c1ed90030ab68530a882033c828d70ed06996e0f2fa7e1d5a4",
     "pre_download": "Assert-Administrator",
     "pre_install": [
         "$processname = \"HD-Player\"",
