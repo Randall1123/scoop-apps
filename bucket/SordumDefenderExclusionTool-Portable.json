@@ -1,5 +1,5 @@
 {
-    "version": "1.4",
+    "version": ".",
     "description": "Sordum's Defender Exclusion Tool. Add/Remove exclusions to Windows Defender.",
     "homepage": "https://www.sordum.org/defender-exclusion-tool",
     "license": {
@@ -7,8 +7,8 @@
         "url": "https://www.sordum.org/eula/"
     },
     "url": "https://www.sordum.org/files/download/defender-exclusion-tool/ExcTool.zip",
-    "hash": "cca1d59c3814d708d48b8b2ef3d45c7240ba0c277d30c02e107784900ca0f5ff",
-    "extract_dir": "ExcTool_v1.4",
+    "hash": "deba71b980d69c7c5e9779bea9bbbc6c7388eb898c56bedb976ebbc6b29a1997",
+    "extract_dir": "ExcTool_v.",
     "bin": "ExcTool.exe",
     "shortcuts": [
         [
