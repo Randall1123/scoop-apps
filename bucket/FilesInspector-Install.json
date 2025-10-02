@@ -1,11 +1,11 @@
 {
-    "version": "4.30",
+    "version": "4.40",
     "description": "Files Inspector. A Free Utility For Freeing Up Disk Space Manually",
     "homepage": "https://www.chemtable.com/files-inspector.htm",
     "license": "Freeware",
     "changelog": "https://www.chemtable.com/version-history.htm?prod_id=Files%20Inspector",
     "url": "https://www.chemtable.com/files/fi/files-inspector-setup.exe#/setup.exe",
-    "hash": "1255ba47ddb1a555b0f28fe9741fb4970a3f2c3827c61eb040618afe7a2b3fc1",
+    "hash": "88abecf23881e54c66f928ddcb9b9bc211476f92a3265261429bfa7efbc6b4ec",
     "pre_download": "Assert-Administrator",
     "pre_install": [
         "$processname = \"FilesInspector\"",
