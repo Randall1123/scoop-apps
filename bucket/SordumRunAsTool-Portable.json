@@ -1,5 +1,5 @@
 {
-    "version": "1.5",
+    "version": "8",
     "description": "Sordum's RunAsTool. Launch a program as a different user account than the one currently active.",
     "homepage": "https://www.sordum.org/runastool",
     "license": {
@@ -7,7 +7,7 @@
         "url": "https://www.sordum.org/eula/"
     },
     "url": "https://www.sordum.org/files/runastool/RunAsTool.zip",
-    "hash": "6850b536a8d3227b97ba96f0b173b4640063210fa28a5818eefb6d704c73476a",
+    "hash": "d2ac424fd4be4c406d66ce0cd11ba18ec66fb8d3d94e2e2076a4bedc68a8be60",
     "extract_dir": "RunAsTool",
     "architecture": {
         "64bit": {
