@@ -1,5 +1,5 @@
 {
-    "version": "6.1.0.0",
+    "version": "6.2.1.0",
     "description": "Quick CPU. Fine-tune and monitor important CPU and System parameters such as CPU Temperature (Package and Core Temp), CPU Performance, Power, Voltage, Current, Core Parking, Frequency Scaling, System Memory, Turbo Boost, C-States, Speed Shift FIVR Control as well as making other adjustments.",
     "homepage": "https://coderbag.com/product/quickcpu",
     "license": "Public Domain",
@@ -7,11 +7,11 @@
     "architecture": {
         "64bit": {
             "url": "https://coderbag.com/assets/downloads/cpm/currentversion/QuickCpuSetup64.zip",
-            "hash": "d3661bda2f838cf6baed51a8e9de3ac577e73796252cdca866f9e314b52c822f"
+            "hash": "23e92c8bd4b89e7a5484c053107120eb0ed6ab2ba3ae5ef113e71fffa9cd5356"
         },
         "32bit": {
             "url": "https://coderbag.com/assets/downloads/cpm/currentversion/QuickCpuSetup32.zip",
-            "hash": "7ae61158281ed0375a645b41a6c557ebf78783f1dfc334b608f539df54e6919f"
+            "hash": "fbdb7961f7a604638ffdf5d3c98068e7b23b613f0cc9f3aa2d61e3f432dbbc4f"
         }
     },
     "pre_install": [
