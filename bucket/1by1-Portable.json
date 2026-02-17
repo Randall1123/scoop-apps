@@ -1,11 +1,11 @@
 {
-    "version": "2.13",
+    "version": "2.14",
     "description": "1by1. Directory Player: directly plays folder contents.",
     "homepage": "https://mpesch3.de/1by1.html",
     "license": "freeware",
     "changelog": "https://mpesch3.de/1by1.html",
-    "url": "https://www.videohelp.com/download/1by1_213.exe#/dl.7z",
-    "hash": "cc679cba49b8a793c4bdef1a990721df2ee32df7394d655a7bc11519b9d4334b",
+    "url": "https://www.videohelp.com/download/1by1_214.exe#/dl.7z",
+    "hash": "e33e7e5698b28f71ef651e45dfe171e9b249e607938603c10a12829c9f94f212",
     "shortcuts": [
         [
             "1by1.exe",
