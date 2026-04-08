@@ -1,5 +1,5 @@
 {
-    "version": "1.1",
+    "version": "1.2",
     "description": "Sordum's Desktop Ini Editor. ",
     "homepage": "https://www.sordum.org/10084/",
     "license": {
@@ -7,7 +7,7 @@
         "url": "https://www.sordum.org/eula/"
     },
     "url": "https://www.sordum.org/files/small-tools/DeskEdit.zip",
-    "hash": "1423bc2d35594cb5f4cfdeca84531fe892565761b824e7ec7de27a46812435b2",
+    "hash": "c9bf7bacdb7f90d5ad2ca489490f7a0884e10bcdd4e0d65e1d5a7c1fc6ecf6ce",
     "extract_dir": "DeskEdit",
     "bin": "DeskEdit.exe",
     "shortcuts": [
