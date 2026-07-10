@@ -1,16 +1,16 @@
 {
-    "version": "4.10.4.0",
+    "version": "4.11.0.0",
     "description": "Computer monitoring and classroom management software.",
     "homepage": "https://veyon.io/",
     "license": "GPL-2.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/veyon/veyon/releases/download/v4.10.4/veyon-4.10.4.0-win64-setup.exe#/setup.exe",
-            "hash": "7850108b02440ef4c739ef659d9c21b2f78bde2601c1e213dd33c99b02e6132d"
+            "url": "https://github.com/veyon/veyon/releases/download/v4.11.0/veyon-4.11.0.0-win64-setup.exe#/setup.exe",
+            "hash": "542eca09409019c45ba0d39cca6deae31ed1668fecc67a452fe2228de0a58334"
         },
         "32bit": {
-            "url": "https://github.com/veyon/veyon/releases/download/v4.10.4/veyon-4.10.4.0-win32-setup.exe#/setup.exe",
-            "hash": "6e2d159760c94220f5569a342890dd74a1e85d483b62c9b8a6f97ca41d990949"
+            "url": "https://github.com/veyon/veyon/releases/download/v4.11.0/veyon-4.11.0.0-win32-setup.exe#/setup.exe",
+            "hash": "45e851825fc910701eb282f3d4b7e37adb44236871f0bd70aa443a74dbdd755b"
         }
     },
     "pre_download": "Assert-Administrator",
